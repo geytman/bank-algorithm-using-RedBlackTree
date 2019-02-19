@@ -1,6 +1,11 @@
 # A Model of Bank Algorithm Using RedBlackTree 
 
-
+#Runtime efficiency
+ * Algorithm use the red-black tree to Build Bank O(log n), Insert to tree O(log n) ,Delete customer O(log n),Search customer in tree O(log n) ,FIX tree O(log n) ,Delete all tree o(1)
+ * Rotate left and right 0(1) .
+ * To get all the customer who have minus in bank We use linked list , Build linked list o(n),Search customer in linked list o(n)
+ * To get the rich customer in tree we use max-heap ,build max-heap o(n) 
+ * Search for rich customer o(1).
 
 
 
@@ -85,7 +90,7 @@
     **************************************************************************
 
     8
-    
+
     Tree Deleted! all id is delet 
  
 

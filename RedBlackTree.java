@@ -7,10 +7,12 @@ import java.lang.String;
  * The program Can return Who owes money to the bank and how much.
  * The program Can Print all customer in Bank ,also The program Can Delete a customer or all customers at the bank .
  * --------------------------------------------------------------------------------------------------------------------------------------------
- * The program use the red-black tree Using Methods Build O(log n), Insert O(logn) ,Delete O(log n),Search O(log n) ,FIX O(log n)
+ * Algorithm use the red-black tree to Build Bank O(log n), Insert to tree O(log n) ,Delete customer O(log n),Search customer in tree O(log n) ,
+ * FIX tree O(log n) ,Delete all tree o(1)
  * Rotate left and right 0(1) .
- * To realize a minimum list And keep minimum we put in to red-black tree also A linked list  That brings me to the list 0(n).
- * as well we use the ArrayList This dynamic system To use heap To make the max in O(1), build heap o(n).
+ * To get all the customer who have minus in bank We use linked list , Build linked list o(n),Search customer in linked list o(n)
+ * To get the rich customer in tree we use max-heap ,build max-heap o(n) 
+ * Search for rich customer o(1).
  * --------------------------------------------------------------------------------------------------------------------------------------------
  * @author (Vladimir Geytman) 
  */
