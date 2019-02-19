@@ -1,2 +1,2 @@
-# A Model of Bank Algorithm Using RedBlackTree 
+# A Model of Bank Algorithm Using RedBlackTree .
 
