@@ -4,3 +4,4 @@ RedBlackTree$Nodemin.class
 RedBlackTree$TreeNode.class
 RedBlackTree.class
 .DS_Store
+.gitignore
