@@ -1,5 +1,7 @@
 # A Model of Bank Algorithm Using RedBlackTree 
 
+![Screenshot](include/A_Model_of_Bank.JPEG)
+
 # Runtime efficiency
  * Algorithm use the [red-black tree](https://en.wikipedia.org/wiki/Red%E2%80%93black_tree) to Build Bank O(log n), Insert to tree O(log n) ,Delete customer O(log n),Search customer in tree O(log n) ,FIX tree O(log n) ,Delete all tree o(1)
  * Rotate left and right 0(1) .
