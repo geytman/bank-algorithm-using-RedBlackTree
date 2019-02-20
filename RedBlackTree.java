@@ -14,7 +14,8 @@ import java.lang.String;
  * To get the rich customer in tree we use max-heap ,build max-heap o(n) 
  * Search for rich customer o(1).
  * --------------------------------------------------------------------------------------------------------------------------------------------
- * @author (Vladimir Geytman) 
+ * @author (Vladimir Geytman) (Year 2015) 
+ * 
  */
 public class RedBlackTree
  {   //Start of a program
