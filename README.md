@@ -91,6 +91,6 @@
 
     8
 
-    Tree Deleted! all id is delet 
+    Tree Deleted! 
  
 
