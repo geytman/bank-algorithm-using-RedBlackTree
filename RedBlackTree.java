@@ -1067,7 +1067,7 @@ public class RedBlackTree
          case 8:  // Deleted all Tree and Linked list 
          System.out.println(" ");  // Just for  beauty
          deleteTree();
-         System.out.println("Tree Deleted! all id is delet ");
+         System.out.println("Tree Deleted!");
          System.out.println(" ");  // Just for  beauty
          count=0;
          _head = null ;
